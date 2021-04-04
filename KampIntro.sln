@@ -9,31 +9,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{636DB783-59E9-4B48-A91B-96A15BEF2233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{EB55FBDB-5FCB-4F18-B6EA-74951CE56418}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{EB55FBDB-5FCB-4F18-B6EA-74951CE56418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{4BA93790-3A79-4439-9BF2-743931E8C911}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{4BA93790-3A79-4439-9BF2-743931E8C911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{7119AD9F-AD97-4255-A64F-01B57228B7BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{7119AD9F-AD97-4255-A64F-01B57228B7BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{3273A167-481E-48E9-B3FD-F3DD2A0AAA6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{3273A167-481E-48E9-B3FD-F3DD2A0AAA6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{70F734EE-068A-430D-ACCC-6817ECCE3FAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{70F734EE-068A-430D-ACCC-6817ECCE3FAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{092779DA-A46E-4481-AE39-B038CAA93EAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{092779DA-A46E-4481-AE39-B038CAA93EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2670B40B-1F81-44CC-839F-B604574C6DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{2670B40B-1F81-44CC-839F-B604574C6DCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{E59DFCF0-2FD9-4A2F-8734-AE3D9D401A55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{E59DFCF0-2FD9-4A2F-8734-AE3D9D401A55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{53A6659C-7887-429A-89DB-1FC9AA296FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{53A6659C-7887-429A-89DB-1FC9AA296FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{BD596F36-B552-4AB2-B3C5-BB2816C4486B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{BD596F36-B552-4AB2-B3C5-BB2816C4486B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{F3DC3448-1723-42DB-891B-596FB15E3AC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{F3DC3448-1723-42DB-891B-596FB15E3AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products", "Products\Products.csproj", "{B390602D-61C6-4D92-B66C-6C2138677E79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products", "Products\Products.csproj", "{B390602D-61C6-4D92-B66C-6C2138677E79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "referenceTypes\ReferenceTypes.csproj", "{606FE31D-EDC8-4ADF-A0B3-57E9E3C5D3D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "referenceTypes\ReferenceTypes.csproj", "{606FE31D-EDC8-4ADF-A0B3-57E9E3C5D3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{546004DF-D2B8-49A0-A7C5-5927E113E751}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{606FE31D-EDC8-4ADF-A0B3-57E9E3C5D3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{606FE31D-EDC8-4ADF-A0B3-57E9E3C5D3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{606FE31D-EDC8-4ADF-A0B3-57E9E3C5D3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546004DF-D2B8-49A0-A7C5-5927E113E751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546004DF-D2B8-49A0-A7C5-5927E113E751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546004DF-D2B8-49A0-A7C5-5927E113E751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546004DF-D2B8-49A0-A7C5-5927E113E751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
