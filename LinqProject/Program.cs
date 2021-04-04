@@ -11,7 +11,7 @@ namespace LinqProject
 
             List<Category> categories = new List<Category>
             {
-                new Category{CategoryId=1, CategoryName="Bilgisayar"},
+                new Category{CategoryId=1, CategoryName="Bilgisayar"}, 
                 new Category{CategoryId=2, CategoryName="Telefon"}
             };
             List<Product> products = new List<Product>
